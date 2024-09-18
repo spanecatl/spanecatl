@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @spanecatl
-- 👀 I’m interested in reading books writen by a woma, dancing and gymnastics
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on understanding Mexico data information
-- ✨ I’m feminist
+- 👀 I’m interested in reading books writen by a woman, dancing (urban + hiphop), running and gymnastics
+- 🌱 I’m currently learning R (importing my knowledge from Stata)
+- 💞️ I’m looking to collaborate on understanding Mexico Financial System data
+- ✨ I’m a feminist
 - 📫 How to reach me: sarahipanecatl@gmail.com
 
 <!---
